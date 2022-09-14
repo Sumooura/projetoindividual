@@ -1,0 +1,39 @@
+p{
+    margin-left: 90px;
+    margin-right: 100px;
+    
+}
+
+body {
+    text-align: center;
+    background-color:beige;
+
+}
+.menu{
+    background-color:red;
+    border: 2px solid black;
+}
+img{
+    width: 40px;
+    height: 40px;px;
+}
+ 
+a:hover{
+    color: peru;
+}
+ 
+p{
+    text-indent: 35px;
+}
+
+main{
+    padding: 20px;
+    border-radius: 10px;
+
+    min-width: 320px;
+    max-width: 800px;
+    margin: auto;
+}
+
+
+
